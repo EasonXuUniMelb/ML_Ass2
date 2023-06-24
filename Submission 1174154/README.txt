@@ -1,0 +1,2 @@
+The model.ipynb contains all the code running the models.
+The Multinomial Naive Bayes gives the best performance, and its output csv file is named, multinomialnb.csv, which is the one in Kaggle format.
